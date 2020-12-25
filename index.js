@@ -6,4 +6,3 @@ const returnFirstTwoDrivers = function(arr){
     }
     return emp
   }
-}
