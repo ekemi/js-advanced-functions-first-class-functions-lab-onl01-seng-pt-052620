@@ -20,3 +20,7 @@ const fareDoubler = function(f){
 const fareTripler =  function(f){
   return createFareMultiplier(f)(3)
 }
+
+const selectDifferentDrivers = function(arr,fun) {
+  return fun(arr)
+}
